@@ -4,6 +4,9 @@
 ![Image](https://github.com/xxg90s/XXGravityBall/blob/master/MainViewDisplay.png)
 
 如何使用：
+
+Pod支持  `pod 'XXGravityBall', '~> 1.0.0'`
+
 初始化View并自行设置背景和手势支持
 ```
     //初始化View
